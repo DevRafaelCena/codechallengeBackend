@@ -1,0 +1,24 @@
+{
+  "development": {
+    "host": "queenie.db.elephantsql.com",
+    "dialect": "postgres",
+    "username": "mgdhqquv",  
+    "port":"5432",
+    "password": "adXZ1EUbJN84Pa3ak04EknSJb7iea-L3",
+    "database": "mgdhqquv"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
